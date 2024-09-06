@@ -1,0 +1,10 @@
+# Ignore .env file
+.env
+
+# Ignore Python cache files
+_pycache_/
+*.pyc
+
+# Ignore other sensitive or unnecessary files
+*.log
+*.sqlite3
