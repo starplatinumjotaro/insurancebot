@@ -1,4 +1,4 @@
 streamlit
 python-dotenv
 openai
-thirdai
+thirdai==0.9.12
